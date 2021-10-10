@@ -5,5 +5,5 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/LpSymons/LpSymons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LpSymons&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Louis's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LpSymons&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00F1FF" alt="Louis's GitHub Stats" />
 </a>
